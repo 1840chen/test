@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92b7256e-2d1d-433e-8f33-5f11e633ba97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaAejHws2dgM8LL9upzpQIeZhb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.rabbitmq.work" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.rabbitmq.simple.Producer" />
+      <module name="heima-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.rabbitmq.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b7256e-2d1d-433e-8f33-5f11e633ba97" name="Default Changelist" comment="" />
+      <created>1602135425276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602135425276</updated>
+      <workItem from="1602135430548" duration="4784000" />
+      <workItem from="1602142846497" duration="5690000" />
+      <workItem from="1602254862793" duration="527000" />
+      <workItem from="1602515378869" duration="1966000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交1">
+      <created>1602516437183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516437183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交2">
+      <created>1602517045531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602517045531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="提交1" />
+    <MESSAGE value="提交2" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1602517397379">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602517397379" />
+    <state width="1222" height="155" key="GridCell.Tab.0.bottom" timestamp="1602150004936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602150004936" />
+    <state width="1222" height="155" key="GridCell.Tab.0.center" timestamp="1602150004936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602150004936" />
+    <state width="1222" height="155" key="GridCell.Tab.0.left" timestamp="1602150004936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602150004936" />
+    <state width="1222" height="155" key="GridCell.Tab.0.right" timestamp="1602150004936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602150004936" />
+    <state width="1237" height="158" key="GridCell.Tab.1.bottom" timestamp="1602150004932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602150004932" />
+    <state width="1237" height="158" key="GridCell.Tab.1.center" timestamp="1602150004932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602150004932" />
+    <state width="1237" height="158" key="GridCell.Tab.1.left" timestamp="1602150004932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602150004932" />
+    <state width="1237" height="158" key="GridCell.Tab.1.right" timestamp="1602150004932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="158" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602150004932" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1602255396460">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602255396460" />
+    <state x="190" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602142651555">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="190" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1602142651555" />
+    <state x="755" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602136387325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="755" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602136387325" />
+  </component>
+</project>

@@ -12,7 +12,7 @@
 // */
 //public class Consumer {
 //    public static void main(String[] args) throws Exception {
-//        //获取连接
+//        //获取连接2222222222222222
 //        Connection connection = ConnectionUtil.getConnection();
 //        //创建频道
 //        Channel channel = connection.createChannel();
